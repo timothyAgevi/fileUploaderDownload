@@ -1,5 +1,17 @@
 body{
-    background-image: url(me.jpg);
+    background-image: url(nature.jpeg);
     background-position: center;
-    background-repeat: no-repeat;
+    
+}
+.main{
+    position:absolute;
+    top:17%;
+    left:30%;
+    width:460px;
+    border:2px solid #000;
+    padding:40px;
+    background-color: rgba(0,0,0,0.3);
+   color:#fff;
+   border-radius:12px;
+   padding-top: 80px;
 }
