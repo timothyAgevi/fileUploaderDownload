@@ -1,5 +1,5 @@
 body{
-    background-image: url(nature.jpeg);
+    background-image: url(white.jpg);
     background-position: center;
     
 }
@@ -15,3 +15,7 @@ body{
    border-radius:12px;
    padding-top: 80px;
 }
+#file::-webkit-file-upload-button{
+    visibility:hidden;
+}
+
