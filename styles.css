@@ -32,4 +32,9 @@ body{
     transition:5s all ;
 
 }
-
+#file{
+    width:84%;
+    height:55px;
+    padding-top:23px;
+    padding-left:20px;
+}
