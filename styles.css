@@ -38,3 +38,7 @@ body{
     padding-top:23px;
     padding-left:20px;
 }
+#file :hover,input[type=button]:hover, #Color:hover{
+    cursor:pointer;
+    background-color: #4287f5;
+}
